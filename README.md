@@ -1,4 +1,4 @@
-# Projeto de IC: Separação de Core e UPF no free5gc para testes ATSSS
+# Separação de Core e UPF no free5gc para testes ATSSS
 
 Este repositório contém os arquivos de configuração e scripts modificados do projeto [free5gc](https://github.com/free5gc/free5gc) para permitir a execução da UPF (User Plane Function) em uma máquina separada do Core Network.
 
